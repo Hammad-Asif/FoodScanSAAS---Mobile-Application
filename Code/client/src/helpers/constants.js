@@ -1,0 +1,1 @@
+export const BASE_URL = `https://foodscannerapp-5420e018925c.herokuapp.com/api/`
